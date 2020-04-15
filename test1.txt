@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C854-36B7
+
+ Directory of C:\Users\tzmta\OneDrive\Desktop\test
+
+04/15/2020  01:32 AM    <DIR>          .
+04/15/2020  01:32 AM    <DIR>          ..
+04/15/2020  01:32 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  22,046,892,032 bytes free
